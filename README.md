@@ -9,7 +9,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 📈 **GitHub Stats**
-![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jana1902&show_icons=true&theme=radical)
 
 📫 **Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
